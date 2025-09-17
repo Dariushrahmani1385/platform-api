@@ -121,3 +121,5 @@ Test all endpoints interactively.
 
 ✍️ Author: **Dariush Rahmani**  
 📌 Project: **Blogging Platform API**
+
+https://roadmap.sh/projects/blogging-platform-api
